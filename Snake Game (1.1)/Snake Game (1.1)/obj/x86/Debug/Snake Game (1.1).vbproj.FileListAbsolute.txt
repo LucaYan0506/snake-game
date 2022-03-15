@@ -1,0 +1,11 @@
+D:\School\IT\Visual Basic\Snake Game\Snake Game (1.1)\Snake Game (1.1)\obj\x86\Debug\Snake_Game__1._1_.Form1.resources
+D:\School\IT\Visual Basic\Snake Game\Snake Game (1.1)\Snake Game (1.1)\obj\x86\Debug\Snake_Game__1._1_.Resources.resources
+D:\School\IT\Visual Basic\Snake Game\Snake Game (1.1)\Snake Game (1.1)\obj\x86\Debug\Snake Game (1.1).vbproj.GenerateResource.cache
+D:\School\IT\Visual Basic\Snake Game\Snake Game (1.1)\Snake Game (1.1)\bin\Debug\Snake Game (1.1).exe
+D:\School\IT\Visual Basic\Snake Game\Snake Game (1.1)\Snake Game (1.1)\bin\Debug\Snake Game (1.1).pdb
+D:\School\IT\Visual Basic\Snake Game\Snake Game (1.1)\Snake Game (1.1)\bin\Debug\Snake Game (1.1).xml
+D:\School\IT\Visual Basic\Snake Game\Snake Game (1.1)\Snake Game (1.1)\obj\x86\Debug\Snake Game (1.1).exe
+D:\School\IT\Visual Basic\Snake Game\Snake Game (1.1)\Snake Game (1.1)\obj\x86\Debug\Snake Game (1.1).xml
+D:\School\IT\Visual Basic\Snake Game\Snake Game (1.1)\Snake Game (1.1)\obj\x86\Debug\Snake Game (1.1).pdb
+D:\School\IT\Visual Basic\Snake Game\Snake Game (1.1)\Snake Game (1.1)\obj\x86\Debug\Snake Game (1.1).vbprojAssemblyReference.cache
+D:\School\IT\Visual Basic\Snake Game\Snake Game (1.1)\Snake Game (1.1)\obj\x86\Debug\Snake Game (1.1).vbproj.CoreCompileInputs.cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Snake Game (1.1)", "Snake Game (1.1)\Snake Game (1.1).vbproj", "{99471ED6-AE25-4C64-86B8-6A444E3216C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99471ED6-AE25-4C64-86B8-6A444E3216C8}.Debug|x86.ActiveCfg = Debug|x86
+		{99471ED6-AE25-4C64-86B8-6A444E3216C8}.Debug|x86.Build.0 = Debug|x86
+		{99471ED6-AE25-4C64-86B8-6A444E3216C8}.Release|x86.ActiveCfg = Release|x86
+		{99471ED6-AE25-4C64-86B8-6A444E3216C8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
